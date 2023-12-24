@@ -1,16 +1,13 @@
-### Hi there 👋
+I'm Musyaffa!
 
-<!--
-**mosyaffa/mosyaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/musyaffa-hadi/)
 
-Here are some ideas to get you started:
+Projects : 
+- [Data Science Bootcamp Project](https://github.com/mosyaffa/Portofolio-Bootcamp-Data-Science-D---Digital-Skola-Batch-32)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/mosyaffa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mosyaffa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tyoamazinglib&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
