@@ -9,6 +9,7 @@ Projects
 Connect With Me
 ---------------------------------------------------------------------------------------------------------------------------------------------
 **Email    :** musyaffahadi@gmail.com
+
 **LinkedIn :** [Musyaffa Hadi](https://www.linkedin.com/in/musyaffa-hadi/)
 
 
