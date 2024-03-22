@@ -2,10 +2,15 @@ I'm Musyaffa!
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Welcome! I am an Associate Data Scientist recognized for my hard work and dedication in completing an intensive Data Science training program provided by Digital Skola, achieving an Excellent Grade. Feel free to explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests
 
+Projects
+---------------------------------------------------------------------------------------------------------------------------------------------
+- [Data Science Bootcamp Project](https://github.com/mosyaffa/Portofolio-Bootcamp-Data-Science-D---Digital-Skola-Batch-32)
+
+Connect With Me
+---------------------------------------------------------------------------------------------------------------------------------------------
+[Email](musyaffahadi@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/musyaffa-hadi/)
 
-Projects : 
-- [Data Science Bootcamp Project](https://github.com/mosyaffa/Portofolio-Bootcamp-Data-Science-D---Digital-Skola-Batch-32)
 
 <p align="left">
 <a href="https://github.com/mosyaffa">
