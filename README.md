@@ -1,5 +1,7 @@
 I'm Musyaffa!
 ---------------------------------------------------------------------------------------------------------------------------------------------
+Welcome! I am an Associate Data Scientist recognized for my hard work and dedication in completing an intensive Data Science training program provided by Digital Skola, achieving an Excellent Grade. Feel free to explore my repositories to witness my coding journey and discover a range of projects showcasing my skills and interests
+
 [LinkedIn](https://www.linkedin.com/in/musyaffa-hadi/)
 
 Projects : 
