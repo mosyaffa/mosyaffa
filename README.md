@@ -8,8 +8,8 @@ Projects
 
 Connect With Me
 ---------------------------------------------------------------------------------------------------------------------------------------------
-[Email](musyaffahadi@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/musyaffa-hadi/)
+**Email    :** [(musyaffahadi@gmail.com)]
+**LinkedIn :** [(https://www.linkedin.com/in/musyaffa-hadi/)]
 
 
 <p align="left">
